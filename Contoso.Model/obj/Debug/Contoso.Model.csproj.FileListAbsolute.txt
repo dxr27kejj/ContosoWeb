@@ -1,0 +1,11 @@
+C:\Users\Xingran\source\repos\ContosoWeb\Contoso.Model\bin\Debug\Contoso.Model.dll.config
+C:\Users\Xingran\source\repos\ContosoWeb\Contoso.Model\bin\Debug\Contoso.Model.dll
+C:\Users\Xingran\source\repos\ContosoWeb\Contoso.Model\bin\Debug\Contoso.Model.pdb
+C:\Users\Xingran\source\repos\ContosoWeb\Contoso.Model\bin\Debug\EntityFramework.dll
+C:\Users\Xingran\source\repos\ContosoWeb\Contoso.Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Xingran\source\repos\ContosoWeb\Contoso.Model\bin\Debug\EntityFramework.xml
+C:\Users\Xingran\source\repos\ContosoWeb\Contoso.Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Xingran\source\repos\ContosoWeb\Contoso.Model\obj\Debug\Contoso.Model.csproj.CoreCompileInputs.cache
+C:\Users\Xingran\source\repos\ContosoWeb\Contoso.Model\obj\Debug\Contoso.Model.dll
+C:\Users\Xingran\source\repos\ContosoWeb\Contoso.Model\obj\Debug\Contoso.Model.pdb
+C:\Users\Xingran\source\repos\ContosoWeb\Contoso.Model\obj\Debug\Contoso.Model.csprojResolveAssemblyReference.cache

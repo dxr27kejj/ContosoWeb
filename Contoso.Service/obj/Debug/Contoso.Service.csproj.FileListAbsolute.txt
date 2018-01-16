@@ -1,0 +1,17 @@
+C:\Users\Xingran\source\repos\ContosoWeb\Contoso.Service\bin\Debug\Contoso.Service.dll.config
+C:\Users\Xingran\source\repos\ContosoWeb\Contoso.Service\bin\Debug\Contoso.Service.dll
+C:\Users\Xingran\source\repos\ContosoWeb\Contoso.Service\bin\Debug\Contoso.Service.pdb
+C:\Users\Xingran\source\repos\ContosoWeb\Contoso.Service\bin\Debug\EntityFramework.dll
+C:\Users\Xingran\source\repos\ContosoWeb\Contoso.Service\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Xingran\source\repos\ContosoWeb\Contoso.Service\bin\Debug\EntityFramework.xml
+C:\Users\Xingran\source\repos\ContosoWeb\Contoso.Service\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Xingran\source\repos\ContosoWeb\Contoso.Service\obj\Debug\Contoso.Service.csproj.CoreCompileInputs.cache
+C:\Users\Xingran\source\repos\ContosoWeb\Contoso.Service\obj\Debug\Contoso.Service.dll
+C:\Users\Xingran\source\repos\ContosoWeb\Contoso.Service\obj\Debug\Contoso.Service.pdb
+C:\Users\Xingran\source\repos\ContosoWeb\Contoso.Service\bin\Debug\Contoso.Data.dll
+C:\Users\Xingran\source\repos\ContosoWeb\Contoso.Service\bin\Debug\Contoso.Model.dll
+C:\Users\Xingran\source\repos\ContosoWeb\Contoso.Service\bin\Debug\Contoso.Data.pdb
+C:\Users\Xingran\source\repos\ContosoWeb\Contoso.Service\bin\Debug\Contoso.Data.dll.config
+C:\Users\Xingran\source\repos\ContosoWeb\Contoso.Service\bin\Debug\Contoso.Model.pdb
+C:\Users\Xingran\source\repos\ContosoWeb\Contoso.Service\bin\Debug\Contoso.Model.dll.config
+C:\Users\Xingran\source\repos\ContosoWeb\Contoso.Service\obj\Debug\Contoso.Service.csprojResolveAssemblyReference.cache
